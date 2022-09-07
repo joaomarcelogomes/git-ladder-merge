@@ -45,9 +45,10 @@ mude o script para o seu espaço de trabalho. (adicione o mesmo ao seu gitignore
 por fim, execute o script, passando como parâmetro, respectivamente, o nome base da branch, o número de branches de desenvolvimento, o nome da branch alvo, e a palavra de separação das branches
 
 exemplo: eu possuo 3 branches, desconsiderando a alvo, elas se chamam:
-  joao-adiciona-numeros-parte1
-  joao-adiciona-numeros-parte1
-  joao-adiciona-numeros-parte1
+
+    joao-adiciona-numeros-parte1
+    joao-adiciona-numeros-parte2
+    joao-adiciona-numeros-parte3
 
 e possuo a branch alvo, que se chama:
   joao-adiciona-numeros-alvo
