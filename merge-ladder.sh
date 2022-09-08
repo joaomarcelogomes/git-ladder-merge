@@ -12,7 +12,7 @@ merge_ladder() {
   local branch_pattern_name=$1
   local branches_num=$2
   local target_branch=$3
-  local word_branch_separator=$4-
+  local word_branch_separator=$4
   local branch_to_merge=$branch_pattern_name-$target_branch
 
   for num in $(seq 1 $branches_num); do

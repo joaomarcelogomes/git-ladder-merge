@@ -49,7 +49,10 @@ exemplo: eu possuo 3 branches, desconsiderando a alvo, elas se chamam:
     joao-adiciona-numeros-parte3
 
 e possuo a branch alvo, que se chama:
+
     joao-adiciona-numeros-alvo
+
+assim, posso quebrar a nomenclatura de minhas branches em:
 
     nome base das minhas branches: joao-adiciona-numeros
     numero de branches: 3
