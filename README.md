@@ -49,7 +49,7 @@ exemplo: eu possuo 3 branches, desconsiderando a alvo, elas se chamam:
     joao-adiciona-numeros-parte3
 
 e possuo a branch alvo, que se chama:
-  joao-adiciona-numeros-alvo
+    joao-adiciona-numeros-alvo
 
     nome base das minhas branches: joao-adiciona-numeros
     numero de branches: 3
