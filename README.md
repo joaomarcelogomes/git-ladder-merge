@@ -6,8 +6,6 @@ um script shell responsável por mesclar N branches filhas.
 
 no meu trabalho atual, muitas vezes sentimos necessidade de criar N branches do git, buscando separar melhor o intuito de cada parte do desenvolvimento para o reviewer em questão. Nossas branches acabam se estruturando em:
 
-### _nosso flow_
-
   <img src="diagram-flow.png"/>
 
 ou seja, a branch alvo (final) é criada com base na main, se tornando uma espécie de cópia da mesma. A primeira branch de desenvolvimento (que conterá as alterações referentes à primeira etapa do desenvolvimento), é criada com base na branch alvo, e nela será mesclada. A segunda branch, será criada com base na primeira, porém também será mesclada na branch alvo, e assim por diante, sendo a 3 criada a partir da 2, a 4 da 3 e etc.
